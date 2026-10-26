@@ -75,7 +75,7 @@
 
 #define BYPASS_TAG
 
-#define DRV_VERSION	"6.5.9" \
+#define DRV_VERSION	"6.5.9-apoxy1" \
 			DRIVERIOV DRV_HW_PERF \
 			BYPASS_TAG
 #define DRV_SUMMARY	"Intel(R) 10GbE PCI Express Linux Network Driver"
